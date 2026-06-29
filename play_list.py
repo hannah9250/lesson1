@@ -1,0 +1,10 @@
+numbers=[20, 60, 80, 100, 10]
+total = sum(numbers)
+average = total/len(numbers)
+largest = max(numbers)
+smallest = min(numbers)
+print(numbers)
+print(total)
+print(average)
+print(largest)
+print(smallest)
