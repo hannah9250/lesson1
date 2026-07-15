@@ -1,4 +1,4 @@
-from array import array
+import array
 
 # Step 1: Create two snack boxes using sets
 snack_box1 = {"chips", "apple", "cookies"}
